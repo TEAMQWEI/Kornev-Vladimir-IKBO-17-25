@@ -1,0 +1,1 @@
+"""Dependency graph visualizer package for npm repositories."""
